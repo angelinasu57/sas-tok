@@ -9,3 +9,7 @@ In this repository, we have included a few files to demonstrate our proposed int
 In future development, we are able to take these tracked metrics and send them to CI360 to use in current market analysis and future market predictions.
 
 As a disclaimer, this work is intellectual property of SAS and many components of the code are not included due to company policy. 
+
+
+Angelina's LinkedIn: https://www.linkedin.com/in/angelina-su-4784ba18a/
+Joanne's LinkedIn: https://www.linkedin.com/in/joanne-lee-s/
